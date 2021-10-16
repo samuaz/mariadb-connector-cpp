@@ -1,3 +1,5 @@
+# THIS IS JUST A FORK WITH https://github.com/mariadb-corporation/mariadb-connector-cpp/pull/7 from DalenPlanestrider To be able to build static library
+
 # MariaDB Connector/C++
 <p align="center">
   <a href="http://mariadb.com/">
